@@ -1,0 +1,14 @@
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\bin\Debug\netcoreapp2.1\CrudMongo.deps.json
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\bin\Debug\netcoreapp2.1\CrudMongo.runtimeconfig.json
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\bin\Debug\netcoreapp2.1\CrudMongo.runtimeconfig.dev.json
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\bin\Debug\netcoreapp2.1\CrudMongo.dll
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\obj\Debug\netcoreapp2.1\CrudMongo.csproj.CoreCompileInputs.cache
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\obj\Debug\netcoreapp2.1\CrudMongo.RazorAssemblyInfo.cache
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\obj\Debug\netcoreapp2.1\CrudMongo.RazorAssemblyInfo.cs
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\obj\Debug\netcoreapp2.1\CrudMongo.AssemblyInfoInputs.cache
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\obj\Debug\netcoreapp2.1\CrudMongo.AssemblyInfo.cs
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\obj\Debug\netcoreapp2.1\CrudMongo.RazorTargetAssemblyInfo.cache
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\bin\Debug\netcoreapp2.1\CrudMongo.pdb
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\obj\Debug\netcoreapp2.1\CrudMongo.dll
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\obj\Debug\netcoreapp2.1\CrudMongo.pdb
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\CrudMongo\CrudMongo\obj\Debug\netcoreapp2.1\CrudMongo.csprojAssemblyReference.cache
